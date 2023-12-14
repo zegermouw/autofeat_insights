@@ -18,5 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/zegermouw"
-Issues = "https://github.com/zegermouw"
+Homepage = "https://github.com/zegermouw/autofeat_insights"
+Issues = "https://github.com/zegermouw/autofeat_insights/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/Autofeat"]
