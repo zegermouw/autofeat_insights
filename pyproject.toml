@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "autofeat-insights"
-version = "0.0.1.dev1"
+version = "0.0.1.dev2"
 authors = [
   { name="Zeger Mouw", email="zegermouw@gmail.com" },
 ]
