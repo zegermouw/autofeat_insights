@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "autofeat-insights"
+name = "autofeatinsights"
 version = "0.0.1.dev2"
 authors = [
   { name="Zeger Mouw", email="zegermouw@gmail.com" },
@@ -22,4 +22,4 @@ Homepage = "https://github.com/zegermouw/autofeat_insights"
 Issues = "https://github.com/zegermouw/autofeat_insights/issues"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/autofeat-insights"]
+packages = ["src/autofeatinsights"]

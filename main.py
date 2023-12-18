@@ -1,1 +1,1 @@
-
+from autofeatinsights import AutoFeat
