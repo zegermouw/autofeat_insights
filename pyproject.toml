@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "autofeat_insights"
+name = "autofeat-insights"
 version = "0.0.1.dev0"
 authors = [
   { name="Zeger Mouw", email="zegermouw@gmail.com" },
