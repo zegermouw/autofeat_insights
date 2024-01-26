@@ -1,1 +1,1 @@
-from autofeatinsights.Autofeat import AutofeatClass
+from autofeatinsights.autofeat_class import AutofeatClass
